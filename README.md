@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./DogBreedClassifier/others/please_read_img.jpg
+[image1]: DogBreedClassifier/others/please_read_img.jpg
 [image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
